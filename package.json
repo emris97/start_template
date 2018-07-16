@@ -1,0 +1,25 @@
+{
+  "name": "ribbon_project",
+  "version": "1.0.0",
+  "description": "ribbons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emris97/ribbons.git"
+  },
+  "author": "emris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emris97/ribbons/issues"
+  },
+  "homepage": "https://github.com/emris97/ribbons#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.5",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-sass": "^4.0.1"
+  }
+}
